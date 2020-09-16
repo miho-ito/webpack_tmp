@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/js/sub.js"],"names":["console","log","jQuery","utils"],"mappings":";;;;;;;;;AAAAA,4DAAO,CAACC,GAAR,CAAY,aAAZ;AACAC,MAAM;AACNC,KAAK,CAACF,GAAN,CAAU,mBAAV,E","file":"1.js","sourcesContent":["console.log(\"this is sub\");\njQuery();\nutils.log(\"hello from sub.js\");\n"],"sourceRoot":""}
